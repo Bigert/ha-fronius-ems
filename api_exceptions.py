@@ -1,6 +1,5 @@
 class FroniusApiError(Exception):
-    """Base exception for HA Fronius EMS."""
-
+    pass
 
 class FroniusAuthenticationError(FroniusApiError):
-    """Authentication failed."""
+    pass
