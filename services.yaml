@@ -1,0 +1,7 @@
+refresh:
+  name: Refresh
+  description: Refresh data from the inverter.
+
+scan_devices:
+  name: Scan devices
+  description: Trigger a device scan on the inverter.
